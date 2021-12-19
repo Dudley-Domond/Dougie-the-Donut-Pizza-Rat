@@ -9,7 +9,7 @@ Make sure it only toggles the response for that one complaint, not the entire li
 
 const APP_TOKEN = "3nMPlHyMofEykN2kh1YXuq6vz";
 const NYPD_AGENCY = "New York City Police Department";
-const BOROUGHS = ["BROOKLYN", "MANHATTAN", "QUEENS", "STATEN ISLAND", "BRONX"];
+const BOROUGHS = ["Brooklyn", "Manhattan", "Queens", "Bronx", "Staten Island"];
 const NUM_OF_BOROUGH_DIVS = BOROUGHS.length
 let backgroundColors = ["orange", "blue", "red", "purple", "green"];
 const MY_URL = "https://data.cityofnewyork.us/resource/erm2-nwe9.json?";
