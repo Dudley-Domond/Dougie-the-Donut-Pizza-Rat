@@ -11,7 +11,7 @@ const APP_TOKEN = "3nMPlHyMofEykN2kh1YXuq6vz";
 const NYPD_AGENCY = "New York City Police Department";
 const BOROUGHS = ["BROOKLYN", "MANHATTAN", "QUEENS", "STATEN ISLAND", "BRONX"];
 const NUM_OF_BOROUGH_DIVS = BOROUGHS.length
-let backgroundColors = ["green", "blue", "red", "orange", "purple"];
+let backgroundColors = ["orange", "blue", "red", "purple", "green"];
 const MY_URL = "https://data.cityofnewyork.us/resource/erm2-nwe9.json?";
 const DEFAULT_LIMIT = 10;
 
