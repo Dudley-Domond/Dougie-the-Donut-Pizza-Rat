@@ -1,5 +1,3 @@
-console.log("hello world");
-
 const render = data => {
   data.forEach(item => {
     const $listItem = $("<div>").text(item.descriptor);
